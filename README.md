@@ -1,23 +1,21 @@
 #Projeto ChessSystem
-![ChessSystem](./assets/CheesGame.jpg)
 
-Um sistema de jogo de xadrez ♟️
+![ChessSystem](./assets/ChessSystem.png)
 
-## índice
-- <a href="#funcionalidade">Funcionalidades do Projeto</a>
-- <a href="#demonstracao">Demonstração</a>
-- <a href="#rodar">Como rodar esse projeto</a>
-- <a href="#tecnologia">Tecnologia Utilizada</a>
+Um sistema de jogo de xadrez criado com o curso da Udemy ♟️
 
 ## 💻 Funcionalidades do projeto
 
-- [x] Clássico jogo de xadrez
-- [x] Jogadas Especiais
+- Escolha de peças e time
+- Marcação de áreas de movimento
+- Jogadas Especiais
+- 
 
 ## ▶️ Demonstração
 
-![Início da partida](./assets/Tela1.png)
+![Início da partida](./assets/Tela.png)
 ![Partida em andamento](./assets/Tela2.png)
+![Partida em andamento](./assets/Tela3.png)
 
 ```
 Execução pelo git bash

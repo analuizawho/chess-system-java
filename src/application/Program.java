@@ -18,6 +18,8 @@ public class Program {
         while(!chessMatch.getCheckMate()){
             try{
                 UI.clearScreen();
+                System.out.println();
+                System.out.println();
                 UI.printMatch(chessMatch, captured);
                 System.out.println();
                 System.out.print("Source: ");
