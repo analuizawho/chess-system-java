@@ -9,13 +9,12 @@ Um sistema de jogo de xadrez criado com o curso da Udemy ♟️
 - Escolha de peças e time
 - Marcação de áreas de movimento
 - Jogadas Especiais
-- 
 
 ## ▶️ Demonstração
 
-![Início da partida](./assets/Tela.png)
-![Partida em andamento](./assets/Tela2.png)
-![Partida em andamento](./assets/Tela3.png)
+<img align="" src="https://github.com/analuizawho/chess-system-java/blob/main/assets/Tela.png?raw=true" width="35%"/>
+<img align="" src="https://github.com/analuizawho/chess-system-java/blob/main/assets/Tela2.png?raw=true" width="35%"/>
+<img align="" src="https://github.com/analuizawho/chess-system-java/blob/main/assets/Tela3.png?raw=true" width="35%"/>
 
 ```
 Execução pelo git bash
